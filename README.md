@@ -14,7 +14,7 @@ FaceNet learns a neural network that encodes a face image into a vector of 128 n
 - Use these encodings to perform face verification and face recognition
 
 ## Build a Neural Network
-<img src ="./images/network.png" width=600/> <img src ="./images/model.png" width ="300"/>
+<img src ="./images/network.png" width=600/> <img src ="./images/model.png" width ="200"/>
 
 By using a 128-neuron fully connected layer as its last layer, the model ensures that the output is an encoding vector of size 128
 
